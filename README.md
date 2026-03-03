@@ -1,6 +1,6 @@
 ### 📂 Featured Projects
-| Project | Description | Tech Stack | Live Demo |
-| :--- | :--- | :--- | :--- |
-| [*Gözlük Dünyası*](https://github.com/lunayssenur/ilk-web-sitem) | Her tarza uygun gözlüklerin sergilendiği, kullanıcı dostu bir e-ticaret arayüz çalışması. | ⁠ HTML5 ⁠ ⁠ CSS3 ⁠ | [🚀 View Site](https://lunayssenur.github.io/ilk-web-sitem/) |
 
----
+| Project | Description | Built with | Live Demo |
+| :--- | :--- | :--- | :--- |
+| *[C++ Fundamentals](https://github.com/lunayssenur/cpp-fundamentals)* | A structured collection of foundational C++ programming exercises and logic. | ⁠ C++ ⁠ | [View Code](https://github.com/lunayssenur/cpp-fundamentals) |
+| *[Gözlük Dünyası](https://github.com/lunayssenur/ilk-web-sitem)* | A responsive e-commerce landing page interface for eyewear fashion. | ⁠ HTML5 ⁠, ⁠ CSS3 ⁠ | [🚀 Live Demo](https://lunayssenur.github.io/ilk-web-sitem/) |
